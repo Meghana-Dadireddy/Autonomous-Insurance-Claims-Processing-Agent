@@ -1,0 +1,7 @@
+pdfplumber
+python-dateutil
+fastapi
+uvicorn
+pydantic
+pytest
+regex

@@ -1,0 +1,32 @@
+FNOL – First Notice of Loss Report
+
+1. Policy Information
+Policy Number: PL-9845327-HQ
+Policyholder Name: Rakesh Kumar
+Effective Dates: 01-Jan-2024 to 31-Dec-2024
+
+2. Incident Information
+Date of Incident: 14-Feb-2025
+Time of Incident: 03:45 PM
+Location: Near Jubilee Hills Checkpost, Road No. 36, Hyderabad, Telangana
+Description: A two-wheeler skidded due to sudden braking when a car ahead applied an emergency stop. The insured bike suffered damage to the front fork, headlight assembly, and side panels. No bodily injuries were reported.
+
+3. Involved Parties
+Claimant Name: Rakesh Kumar
+Claimant Contact Number: +91 98765 43210
+Claimant Email: rakesh.kumar@example.com
+
+Third Party Name: Manish Sharma
+Third Party Vehicle: Hyundai i20, Reg. No. TS09AB2345
+Third Party Contact Number: +91 91234 56780
+Third Party Statement: Minor rear bumper scratch observed. No injuries.
+
+4. Asset Details
+Asset Type: Two-wheeler (Motorbike)
+Asset ID / Registration Number: TS07EF9981
+Estimated Damage: ₹18,500
+
+5. Other Mandatory Fields
+Claim Type: Motor – Own Damage (OD)
+Attachments: Photos of vehicle damage (3 images), Copy of driving licence, Policy document
+Initial Estimate: ₹20,000

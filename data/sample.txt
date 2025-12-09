@@ -1,0 +1,8 @@
+Policy Number: ABC12345
+Name of Insured: Meghana 
+Date of Loss: 2025-01-10
+Type of Loss: Auto
+Estimated Loss: ₹15000
+Contact Phone: 9876543210
+Description: Vehicle was hit from the rear.
+Location: Kurnool, Andhra Pradesh
